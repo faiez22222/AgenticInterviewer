@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Explain how you would optimize a database query for performance.",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe a time you resolved a conflict in a team.",
+    "role": "Software Engineer",
+    "category": "Behavioral",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the difference between a process and a thread?",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "How do you handle missing data in a dataset?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What would you do if a categorization, an aggregation, and a ratio came up in the same query?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate the Jaccard similarity score between two sets: the size of the intersection divided by the size of the union",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a program that prints numbers from one to 50 in a language of your choice.",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "List all orders, including customer information, using a basic structured query language (SQL) query.",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If we are looking to predict the probability of death from heart disease based on three risk factors (age, sex, and high levels of cholesterol), what is the most appropriate algorithm to use?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How often should an algorithm be updated?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How should you maintain a deployed model?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Can you name a disadvantage of using the linear model?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is regularization in regression?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a confusion matrix?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the law of large numbers?",
+    "role": "Data Scientist",
+    "category": "Technical",
+    "difficulty": "Medium"
+  }
+]
